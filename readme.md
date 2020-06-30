@@ -6,3 +6,8 @@ This project consist of a hello-world app, the purpose is to become a load testi
 ```
 https://github.com/edwin/jmeter-loadtesting
 ```
+
+## Blog Post
+```
+https://edwin.baculsoft.com/2020/06/a-simple-load-testing-pipeline-on-openshift-4-and-jenkins/
+```
